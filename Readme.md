@@ -22,7 +22,7 @@ This library could be used like this, just pass the path of the image, the requi
 #Motivation
 Consider yourself needs to load a high resolution image that would take more than 20MB in memory. Also consider that the image your are loading is displayed rotated. This library will load it efficiently and in its original orientation.
 
-![First](https://lh4.googleusercontent.com/_s2b_3kIUlD4UWipKq8k8cZN_zqUIQdtrSgiJeOAvgFBYilw5SPD1cKNPRNXP6fydqExQA=w1896-h756)  ![Second](https://lh6.googleusercontent.com/ml0stvxXhF8DiPkqYMq_w--DcJ7ww0-mYWCzFUQyPwdCdMCYNMxI0qV_7i9Le07seVULOg=w1896-h756)
+![First](https://raw.githubusercontent.com/inovaeg/ImagesLoader-Android/master/assets/image1.png)![Second](https://raw.githubusercontent.com/inovaeg/ImagesLoader-Android/master/assets/image2.png)
 #Installation
 To use this library, just pull or download and put it in your project. Do not forget to add your package name.
 

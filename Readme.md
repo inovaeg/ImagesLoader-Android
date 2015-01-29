@@ -2,7 +2,7 @@
 
 ##Overview
 
-This is an **Android** library used for loading bitmaps efficiently from local disk, If you have a big image on disk and want to load it in an **ImageView**, then you could use this library to load a sampled bitmap from this image. You could use this library to avoid the **OutOfMemoryError** Exception that occurs when you load high resolution images.
+This is an **Android** library used for loading bitmaps efficiently from local disk, If you have big images on disk and want to load it in an **ImageView**, then you could use this library to load a sampled bitmap from this image. You could use this library to avoid the **OutOfMemoryError** Exception that occurs when you load high resolution images.
 
 If you have an image with resolution 2048x1536, this would allocate about 12MB in memory to load a full image, you could use this library to load a smaller version of this image with a predefined height and width. This library will load a subsampled version for you. This will not destroy the aspect ratio of the image.
 
